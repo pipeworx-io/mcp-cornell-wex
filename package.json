@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-cornell-wex",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Cornell LII Wex MCP — the Legal Information Institute's free legal",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-fbb5bc2464e40cbe2111ad6d213b4dd83ff3b847bfe4ee4a6f0fc2100d19d254",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-894b50d7d874d8d0484a5dc613f660f19c61cd9f86b084754211029ec86ba51e",
+    "sourceCommit": "5b29c2b0c11e1fcd954969a245b474e6e9475116"
   }
 }
